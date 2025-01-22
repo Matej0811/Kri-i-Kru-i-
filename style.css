@@ -5,7 +5,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #423f3f;
+    background-color: #eb0619;
 }
 
 .game-container {
@@ -30,7 +30,7 @@ body {
     border: 2px solid #333;
     font-size: 2rem;
     cursor: pointer;
-    background-color: #fff;
+    background-color: #888888;
     transition: background-color 0.3s;
 }
 
